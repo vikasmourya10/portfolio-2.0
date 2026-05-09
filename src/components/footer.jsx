@@ -29,7 +29,7 @@ const contact = () => {
             If you want to contact me, you can reach out to me on my social media platforms or send me an email. I am always open to new opportunities and collaborations, so feel free to get in touch!
         </p>
       </div>
-      <div className='flex gap-30'>
+      <div className='flex gap-30 md:mb-0 mb-5'>
       <div class='skills' className='text-gray-600 text-lg'>
         <h1 className='bodoni-regular font-bold
           text-lg
