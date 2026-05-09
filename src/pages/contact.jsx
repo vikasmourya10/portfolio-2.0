@@ -31,7 +31,7 @@ const contact = () => {
             </h1>
 
             <h1 className='pixel-font
-            text-2xl
+            text-1xl
             md:text-4xl
             text-gray-800
             items-center
@@ -41,7 +41,7 @@ const contact = () => {
             justify-center'>Phone: <a href="tel:+919953370380">+91 99533 70380</a></h1>
 
             <h1 className='pixel-font
-            text-2xl
+            text-1xl
             md:text-4xl
             text-gray-800
             items-center
@@ -51,7 +51,7 @@ const contact = () => {
             justify-center'>Email: <a href="mailto:t4tokito@gmail.com">t4tokito@gmail.com</a></h1>
             
             <h1 className='pixel-font
-            text-2xl
+            text-1xl
             md:text-4xl
             text-gray-800
             items-center
