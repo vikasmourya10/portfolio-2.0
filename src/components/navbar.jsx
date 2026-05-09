@@ -20,7 +20,7 @@ const Navbar = () => {
     }   
 
   return (
-    <div className='flex w-full h-16 items-center px-5 mt-5 md:mt-0'>
+    <div className='flex w-full h-16 items-center px-5 mt-3 md:mt-0'>
 
         <h5 className='
             text-2xl
