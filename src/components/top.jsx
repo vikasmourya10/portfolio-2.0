@@ -104,8 +104,7 @@ const Top = () => {
        md:h-140 
        md:mt-0 
        mt-25 
-       md:ml-0 
-       ml-15 
+       md:ml-0  
        opacity-90
        hover:opacity-70
        '/>
