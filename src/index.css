@@ -5,6 +5,7 @@ body {
   width: 100%;
   background-color: rgb(255, 255, 255);
   background-size: cover;
+  overflow:hidden;
 }
 .pixel-font {
   font-family: "Pixelify Sans", system-ui;
