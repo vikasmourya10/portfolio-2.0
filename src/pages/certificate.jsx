@@ -16,7 +16,7 @@ const certificate = () => {
   return (
     <div>
       <div>
-        <div className='flex justify-center items-center'>
+        <div className='flex justify-center items-center flex-col md:flex-row'>
             <img src={mui} alt="Certificate" className='
             h-50'/>
             <h1 className='
