@@ -17,7 +17,7 @@ const projects = () => {
             '>Projects!!</h1>
       </div>
 
-            <div className='flex flex-col md:ml-10 justify-center items-center mt-10 w-full md:justify-start md:items-start gap-2 '>
+            <div className='flex flex-col md:ml-10 justify-center items-center mt-10 md:justify-start md:items-start gap-2 '>
             <div className='h-50 w-80 md:h-50 object-cover border-3 bg-pink-100 border-gray-100 rounded-[10px] mt-5 flex flex-row justify-center items-center'> 
               <h1 className='
               boldonse-regular
